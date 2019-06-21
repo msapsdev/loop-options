@@ -5,6 +5,7 @@ Some experimentations on looping using various devices, including:
 - Android
 - Omnipod
 - Freestyle Libre + MiaoMiao
+- RileyLink
 - Dexcom G6
 
 And some applications, including:
