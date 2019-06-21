@@ -3,6 +3,8 @@
 Requirements:
 - Mac + XCode + Apple Developer account
 - iPhone (5s or newer. I am using an old 5s and it seems to be working fine)
+- Omnipod + Rileylink
+- Freestyle Libre + MiaoMiao
 
 Steps:
 - Follow the instructions on how to compile a custom version of Loop from here:
